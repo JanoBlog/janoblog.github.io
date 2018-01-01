@@ -1,6 +1,6 @@
 # EL BLOG DE JANO
 
-Visita el Blog de Jano [aquí](janoblog.github.io).
+Visita el Blog de Jano [aquí](https://janoblog.github.io/).
 
 ## Autor
 
